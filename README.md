@@ -4,13 +4,13 @@ Hello! These are the files I made during my Grade 10B classes in computer about 
 
 ## [1st Quarter](Q1)
 
-- [**Activity 1-3 | Inputs and Outputs 1**](Q1/1-3)
-- [**Activity 1-4 | Inputs and Outputs 2**](Q1/1-4)
-- [**Quarter 1 Performance Task | American Capacity Converter (Fluid Ounces to Cups Converter)**](Q1/PT-1)
+- [**Activity 1-3 | Inputs and Outputs 1**](Q1/1-3.cpp)
+- [**Activity 1-4 | Inputs and Outputs 2**](Q1/1-4.cpp)
+- [**Quarter 1 Performance Task | American Capacity Converter (Fluid Ounces to Cups Converter)**](Q1/PT-1.cpp)
 
 ## [2nd Quarter](Q2)
 
-- [**Activity 2-1 | Sum and Average**](Q2/2-1)
+- [**Activity 2-1 | Sum and Average**](Q2/2-1.cpp)
 - [**Activity 2-2 | Case Switch Calculator**](Q2/2-2.cpp)
 - [**Summative Assessment 2-1 | Grading Sum and Averages**](Q2/SA-2-1.cpp)
 - [**Summative Assessment 2-2 | Operator Calculator**](Q2/SA-2-2.cpp)
