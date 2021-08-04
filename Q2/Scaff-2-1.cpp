@@ -1,4 +1,4 @@
-//unction Output Given the Value of X
+//Function Output Given the Value of X
 #include <iostream>
 #include <cmath>
 using namespace std;
