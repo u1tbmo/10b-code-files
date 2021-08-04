@@ -4,7 +4,7 @@ Hello! These are the files I made during my Grade 10B classes in computer about 
 
 ## [1st Quarter](Q1)
 
-- [**Activity 1-3 | Inputs and Outputs 1**](Q1/1-3)
+- [**Activity 1-3 | Inputs and Outputs 1**](Q1/1-3.cpp)
 - [**Activity 1-4 | Inputs and Outputs 2**](Q1/1-4)
 - [**Quarter 1 Performance Task | American Capacity Converter (Fluid Ounces to Cups Converter)**](Q1/PT-1)
 
